@@ -1,3 +1,7 @@
+pip install virtualenv
+virtualenv venv
+create a requirements.txt file
+pip install -r .\requirements.txt
 git init
 git add README.md
 git commit -m "first commit"
